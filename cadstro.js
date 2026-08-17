@@ -4,6 +4,6 @@ function pegaemail (email){
     // pegando o email e cadastro na plataforma
 
     function mostramensagem ()
-    returnno "Bem vindo ao sistema"
+    return "Bem vindo ao sistema"
 
     // Adcionando mensagem de boas vindas ao sistema
